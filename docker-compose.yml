@@ -1,0 +1,11 @@
+version: '3'
+services:
+  kivy-wslg:
+    build: .
+    environment:
+      - DISPLAY=:0
+    restart: always
+    tty: true
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      - ./:/opt
