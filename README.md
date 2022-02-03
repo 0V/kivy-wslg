@@ -5,7 +5,7 @@ This is a minimal template for developing a Kivy project on Docker Container usi
 ## Require
 
 - Windows 11
-- WSL2
+- WSL2 (latest)
 - Docker Desktop 
   - docker
   - docker-compose
