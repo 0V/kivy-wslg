@@ -1,4 +1,4 @@
-# docker-for-wslg
+# kivy-wslg-dev
 
 This is a minimal template for developing a Kivy project on Docker Container using WSLg (Windows Subsystem for Linux GUI). 
 
