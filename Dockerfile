@@ -1,7 +1,6 @@
 FROM python:3.9
 
 RUN apt-get update
-ENV DISPLAY :0
 
 # Set your user name
 ARG DOCKER_USER=user
